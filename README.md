@@ -48,10 +48,6 @@ This project aims to explore crime trends in China using a dataset of 1,000 crim
 ├── 📁 notebooks/           # Jupyter Notebooks for analysis and modeling
 │   └── Crime_Scene_Analysis.ipynb
 │
-├── 📁 images/              # Contains images generated from analysis
-│   └── crime_heatmap.png
-│   └── age_distribution.png
-│
 ├── 📄 README.md            # Project Documentation (This file)
 │
 ├── 📄 requirements.txt     # Python packages required to run the analysis
