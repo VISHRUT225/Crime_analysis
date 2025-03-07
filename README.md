@@ -1,6 +1,8 @@
 
 # **📊 China Crime Scene Analysis**  
 
+![a-modern-minimalistic-poster-with-a-clea_qcHBm5kASZ24HoEFxjBa8g_cZmYxeKSR9asoYXlS0mT5g](https://github.com/user-attachments/assets/e919543e-373d-48df-9f79-7308895420ef)
+
 A comprehensive crime scene analysis project utilizing Python, data visualization, and machine learning techniques to extract insights from crime data in China. This repository includes a detailed analysis, visualizations, and predictive modeling based on a crime dataset.
 
 ---
